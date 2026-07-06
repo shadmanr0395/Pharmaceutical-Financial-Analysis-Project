@@ -1,4 +1,4 @@
-# Pharmaceutical Services Financial Analysis — Charles River Laboratories (NYSE: CRL)
+# Pharmaceutical Services Financial Analysis - Charles River Laboratories (NYSE: CRL)
 
 ## About this project
 
@@ -8,9 +8,9 @@ Every hardcoded figure in the workbook traces to a specific SEC filing (8-K earn
 
 ## Tools used
 
-- **Microsoft Excel** — the entire model: six linked tabs, colour coded formula conventions (blue for sourced hardcoded facts, green for live cross-tab formulas, black for on-tab calculations, grey italic for flagged data gaps), native charts, and 650+ formula-driven data points verified against source filings with zero calculation errors.
-- **SEC EDGAR** — primary source for all 8-K earnings releases and the FY2025 10-K.
-- **Manual verification method** — every segment figure cross-checked to reconcile against disclosed company totals, and the organic growth bridge independently recalculated and matched against CRL's own reported organic growth percentages, rather than trusted on first entry.
+- **Microsoft Excel** - the entire model: six linked tabs, colour coded formula conventions (blue for sourced hardcoded facts, green for live cross-tab formulas, black for on-tab calculations, grey italic for flagged data gaps), native charts, and 650+ formula-driven data points verified against source filings with zero calculation errors.
+- **SEC EDGAR** - primary source for all 8-K earnings releases and the FY2025 10-K.
+- **Manual verification method** - every segment figure cross-checked to reconcile against disclosed company totals, and the organic growth bridge independently recalculated and matched against CRL's own reported organic growth percentages, rather than trusted on first entry.
 
 ---
 
