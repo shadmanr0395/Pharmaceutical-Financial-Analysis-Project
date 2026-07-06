@@ -2,7 +2,7 @@
 
 ## About this project
 
-This is an independent financial analysis project built around Charles River Laboratories' three public business segments — Research Models & Services (RMS), Discovery & Safety Assessment (DSA), and Manufacturing Solutions — using only their publicly disclosed SEC filings and earnings releases. The goal was to take $4.0bn in real segment revenue data and build the kind of analysis a finance analyst would actually be asked to produce: variance against prior year, margin trend analysis, revenue mix shifts, and a fully sourced audit trail behind every number.
+This is an independent financial analysis project built around Charles River Laboratories' three public business segments - Research Models & Services (RMS), Discovery & Safety Assessment (DSA), and Manufacturing Solutions - using only their publicly disclosed SEC filings and earnings releases. The goal was to take $4.0bn in real segment revenue data and build the kind of analysis a finance analyst would actually be asked to produce: variance against prior year, margin trend analysis, revenue mix shifts, and a fully sourced audit trail behind every number.
 
 Every hardcoded figure in the workbook traces to a specific SEC filing (8-K earnings releases, the FY2025 10-K), cited by URL on the Sources tab. Nothing is estimated, modelled, or invented, and every gap in disclosure is flagged explicitly rather than filled in to make the analysis look tidier than the underlying data actually is.
 
