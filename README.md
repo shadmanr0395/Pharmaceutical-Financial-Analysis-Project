@@ -55,7 +55,7 @@ Every figure in the workbook traces back to one of six primary documents listed 
 
 ## Why this matters
 
-Together these tabs make one consistent point: **headline GAAP numbers alone would tell a misleading story about Charles River Laboratories in FY2025**, and it takes segment-level margin analysis, an organic growth bridge, and a mix-shift view to see what's actually driving performance. That's the exact type of judgement, knowing which number to trust and why, that a finance analyst is expected to bring to a business like Almac Group.
+Together these tabs make one consistent point: **headline GAAP numbers alone would tell a misleading story about Charles River Laboratories in FY2025**, and it takes segment-level margin analysis, an organic growth bridge, and a mix-shift view to see what's actually driving performance. That's the exact type of judgement, knowing which number to trust and why, that a finance analyst is expected to bring to a business.
 
 ## Disclaimer
 
